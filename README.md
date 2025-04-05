@@ -2,7 +2,6 @@
 
 A modern, real-time chat application powered by OpenAI's GPT-3.5 API. Built with React (Vite), Node.js, and styled with Tailwind CSS.
 
-![Progskill AI Chat](./frontend/src/assets/preview.png)
 
 ## Features
 
