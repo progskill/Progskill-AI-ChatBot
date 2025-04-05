@@ -6,7 +6,7 @@ This is the backend server for the AI Chat application, powered by OpenAI's GPT-
 
 1. Install dependencies:
 ```bash
-npm install
+yarn
 ```
 
 2. Create a `.env` file in the root directory and add your OpenAI API key:
@@ -17,7 +17,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 3. Start the server:
 ```bash
-npm start
+yarn dev
 ```
 
 ## API Endpoints
